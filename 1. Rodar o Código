@@ -1,0 +1,4 @@
+Para rodar o código é preciso compilar e depois executar.
+
+Comando 1: javac quackAnalise.java
+Comando 2: java quackAnalise.java
