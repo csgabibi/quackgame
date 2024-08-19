@@ -47,7 +47,7 @@ public class quackAnalise {
 
     public static void main(String[] args) {
         // definindo o caminho do arquivo
-        String caminhoArquivo = "C:\\Users\\Gabriela Neves\\Documents\\projetos\\cloudwalk\\game\\qgames.log"; // Altere para o caminho correto
+        String caminhoArquivo = "qgames.log"; // define o diretorio do arquivo de log
 
         try {
             // lendo o conteúdo do arquivo 
